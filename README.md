@@ -8,7 +8,7 @@ coordinator's working context, and a real, swappable **LLM backend**
 (Llama 3 or any other model via Ollama) for the one step that actually
 needs judgment.
 
-<img src="architecture_diagram.png" width="800">
+<img src="architecture_diagram.jpg" width="800">
 
 No API keys required for the default mode. It runs entirely locally
 against a tiny seeded-bug Python project and pytest, with an optional
